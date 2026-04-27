@@ -23,7 +23,7 @@ OVERPASS_URL = "https://overpass-api.de/api/interpreter"
 
 def config_default() -> dict:
     return {
-        "demanda_min": 390,
+        "demanda_min": 400,
         "demanda_max": 420,
         "ratio_urgente": 0.20,
         "ratio_sobre": 0.15,
