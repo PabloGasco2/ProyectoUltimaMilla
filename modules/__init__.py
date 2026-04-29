@@ -1,1 +1,0 @@
-"""Tribbu Almussafes application modules."""
